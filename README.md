@@ -1,4 +1,4 @@
-# web3-depin-hub 🌐
+# Web3 DePIN Hub 🌐
 
 Welcome to **web3-depin-hub**, your go-to resource for setting up Web3 nodes, farming airdrops, and managing DePIN projects on Linux. 
 
